@@ -1,2 +1,6 @@
 // Export
-export { hello } from "./hello";
+export { 
+    getPublicAddress, 
+    getFioAddress 
+} from "./resolver";
+
